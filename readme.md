@@ -1,4 +1,4 @@
-#VoiceGPT
+**VoiceGPT**
 
 This is an open source sample project.
 To get started with Voice GPT:
